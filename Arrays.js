@@ -1,15 +1,17 @@
 const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
-alert (avengers [0]);
+console.log(avengers [0]);
 
 avengers.splice (0, 1, 'IRONMAN');
+console.log(avengers)
 
-alert (avengers.length);
+console.log(avengers.length);
 
 avengers.push ('Morty', 'Summer');
-alert (avengers [4]);
+console.log(avengers [4]);
 
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 rickAndMortyCharacters.pop();
+console.log(rickAndMortyCharacters);
 
 
 
