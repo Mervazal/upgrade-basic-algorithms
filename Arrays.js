@@ -7,3 +7,9 @@ alert (avengers.length);
 
 avengers.push ('Morty', 'Summer');
 alert (avengers [4]);
+
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
+rickAndMortyCharacters.pop();
+
+
+
