@@ -5,3 +5,5 @@ avengers.splice (0, 1, 'IRONMAN');
 
 alert (avengers.length);
 
+avengers.push ('Morty', 'Summer');
+alert (avengers [4]);
